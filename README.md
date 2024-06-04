@@ -5,7 +5,7 @@ We are at [Comutiq](https://www.linkedin.com/company/computiq/) with [Amideast/I
 ## About The Project 💡 
 This website serves as a platform to offer tech lessons and resources for women. It features various sections to cater to different aspects of tech education and support.
 
-## Pages Descriptions 🔍
+## Description Of Pages 🔍
 
 ### Home Page 
 <img width="960" alt="home page" src="https://github.com/shahlaa1212/About-HeyTech/assets/74646502/cf7da528-e6ff-40e7-ab73-34391e3dbe1c">
