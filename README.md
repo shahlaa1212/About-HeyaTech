@@ -3,8 +3,7 @@
 We are at [Comutiq](https://www.linkedin.com/company/computiq/) with [Amideast/Iraq](https://www.linkedin.com/company/amideast-iraq/). HeyTech is a program dedicated to supporting women in technology by providing them with more tech lessons and resources at Hub200. This project aims to empower women by enhancing their technical skills and knowledge.
 
 ## About The Project 💡 
-
-HeyTech is a comprehensive and user-friendly website designed to provide the latest news, reviews, and insights into the world of technology. The website aims to be a one-stop destination for tech enthusiasts, offering a variety of content including articles, tutorials, product reviews, and more. It is built with a focus on accessibility, responsiveness, and a seamless user experience 😅
+This website serves as a platform to offer tech lessons and resources for women. It features various sections to cater to different aspects of tech education and support.
 
 ## Page Descriptions 🔍
 
@@ -16,7 +15,7 @@ HeyTech is a comprehensive and user-friendly website designed to provide the lat
 - **Description:** This page details the mission, vision, and goals of HeyTech.
 - **Features:** Mission statement, vision, goals, and program overview.
 
-### Courses Page 
+### Branches Page 
 - **Description:** A list of available tech courses designed specifically for women.
 - **Features:** Course listings, descriptions, and enrollment options.
 
@@ -24,13 +23,18 @@ HeyTech is a comprehensive and user-friendly website designed to provide the lat
 - **Description:** Information about the team behind HeyTech.
 - **Features:** Team member bios, photos, and roles.
 
-### Testimonial Page 
+### Activities Page 
 - **Description:** Testimonials from women who have benefited from the program.
 - **Features:** User testimonials, ratings, and feedback.
 
 ### Contact Page 
 - **Description:** A contact form for users to get in touch with the HeyTech team.
 - **Features:** Contact form, location map, and social media links.
+- 
+### Login Page 
+- **Description:** A contact form for users to get in touch with the HeyTech team.
+- **Features:** Contact form, location map, and social media links.
+  
 
 ## Technologies 🛠 
 - [HTML5](https://www.w3schools.com/html/) For the structuring of the website
