@@ -30,7 +30,7 @@ This website serves as a platform to offer tech lessons and resources for women.
 ### Contact Page 
 - **Description:** A contact form for users to get in touch with the HeyTech team.
 - **Features:** Contact form, location map, and social media links.
-- 
+ 
 ### Login Page 
 - **Description:** A contact form for users to get in touch with the HeyTech team.
 - **Features:** Contact form, location map, and social media links.
