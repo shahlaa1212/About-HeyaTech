@@ -14,28 +14,28 @@ This website serves as a platform to offer tech lessons and resources for women.
 - [x] **Features:** Highlights section, upcoming events, and quick navigation links.
 
 ### About Page 
-- **Description:** This page details the mission, vision, and goals of HeyTech.
-- **Features:** Mission statement, vision, goals, and program overview.
+- [x] **Description:** This page details the mission, vision, and goals of HeyTech.
+- [x] **Features:** Mission statement, vision, goals, and program overview.
 
 ### Branches Page 
-- **Description:** A list of available tech courses designed specifically for women.
-- **Features:** Course listings, descriptions, and enrollment options.
+- [x] **Description:** A list of available tech courses designed specifically for women.
+- [x] **Features:** Course listings, descriptions, and enrollment options.
 
 ### Team Page 
-- **Description:** Information about the team behind HeyTech.
-- **Features:** Team member bios, photos, and roles.
+- [x] **Description:** Information about the team behind HeyTech.
+- [x] **Features:** Team member bios, photos, and roles.
 
 ### Activities Page 
-- **Description:** Testimonials from women who have benefited from the program.
-- **Features:** User testimonials, ratings, and feedback.
+- [x] **Description:** Testimonials from women who have benefited from the program.
+- [x] **Features:** User testimonials, ratings, and feedback.
 
 ### Contact Page 
-- **Description:** A contact form for users to get in touch with the HeyTech team.
-- **Features:** Contact form, location map, and social media links.
+- [x] **Description:** A contact form for users to get in touch with the HeyTech team.
+- [x] **Features:** Contact form, location map, and social media links.
  
 ### Login Page 
-- **Description:** The login page of the HeyTech project provides a user interface for authenticated access to the website. It includes fields for entering a username and password.
-- **Features:** This page ensures that only registered users can access personalized or restricted content. The implementation is designed with security and user experience in mind.
+- [x] **Description:** The login page of the HeyTech project provides a user interface for authenticated access to the website. It includes fields for entering a username and password.
+- [x] **Features:** This page ensures that only registered users can access personalized or restricted content. The implementation is designed with security and user experience in mind.
   
 
 ## Technologies 🛠 
