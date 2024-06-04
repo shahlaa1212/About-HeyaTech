@@ -78,8 +78,6 @@ nav ul li a:hover {
     border-radius: 10px;
     cursor: pointer;
     transition: .3s ease;
-	/*border: 2px solid #000;*/
-
 }
 .btn:hover{
     background: rgba(67, 49, 49, 0.5);
@@ -101,7 +99,6 @@ nav ul li a:hover {
 	border: 2px solid #3B3B6E;
 	border-radius: 20px;
 	text-decoration: none;
-	
 	transition: .5s;
 	background-color: #3B3B6E;
 	color: #fff;
@@ -110,12 +107,15 @@ nav ul li a:hover {
 	color: #2e2e2e;
 	background: #fff;
 }
-.logo{
+/* .logo{
   width: 200px;
-}
+} */
 
 .logo img{
-	width: 150px;
+	/* width: 150px; */
+	width: 120px;
+	cursor: pointer;
+	transition: all 1s;
 }
 
 a, button {
