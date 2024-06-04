@@ -34,6 +34,36 @@ Thanks to these wonderful people who contributed to this project:
 - [Aya Haider](https://github.com/AyaHiader)
 - [Esraa talaa](https://github.com/esraatalaa)
 
+## Contributors ✨
+
+Thanks to these wonderful people who contributed to this project:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/shahlaa1212">
+        <img src="https://avatars.githubusercontent.com/u/123456?v=4" width="100px;" alt="Shahlaa"/>
+        <br />
+        <sub><b>Shahlaa Haider</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/shahlaa1212/About-HeyTech/commits?author=shahlaa1212" title="Code">💻</a>
+    </td><br>
+    <td align="center">
+      <a href="https://github.com/shahlaa1212">
+        <img src="https://avatars.githubusercontent.com/u/123456?v=4" width="100px;" alt="Shahlaa"/>
+        <br />
+        <sub><b>Shahlaa Haider</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/shahlaa1212/About-HeyTech/commits?author=shahlaa1212" title="Code">💻</a>
+    </td>
+    <!-- Add more contributors here -->
+  </tr>
+</table>
+
+
+
 
 
  
