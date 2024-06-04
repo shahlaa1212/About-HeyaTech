@@ -26,14 +26,6 @@ HeyTech is a comprehensive and user-friendly website designed to provide the lat
 ## Demo Video 📽️
 To see the app in action, check out the demo video here!
 
-## Contributors 🤝
-
-Thanks to these wonderful people who contributed to this project:
-
-- [Shahlaa Haider](https://github.com/shahlaa1212)
-- [Aya Haider](https://github.com/AyaHiader)
-- [Esraa talaa](https://github.com/esraatalaa)
-
 ## Contributors ✨
 
 Thanks to these wonderful people who contributed to this project:
