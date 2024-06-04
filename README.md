@@ -49,7 +49,7 @@ HeyTech is a comprehensive and user-friendly website designed to provide the lat
 - ✅ Social Media Integration: Easy sharing options to popular social media platforms.
 - ✅ Interactive Elements: Engaging user experience with interactive tutorials and reviews
 
-## Getting Started
+## Getting Started 🔧 
 
 To get a local copy up and running, follow these simple steps:
 
@@ -95,6 +95,11 @@ Thanks to these wonderful people who contributed to this project:
     </td>
   </tr>
 </table>
+
+## 🙏 Contributing 🫱🏼‍🫲🏻
+Contributions are welcome! If you'd like to contribute to the project.
+
+
 
 
 
