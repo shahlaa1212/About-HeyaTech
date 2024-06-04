@@ -1,10 +1,36 @@
-# 👋🏻 About HeyTech Websit 🚀  
+# 👋🏻 HeyTech 🚀
 
-We are at [Comutiq](https://www.linkedin.com/company/computiq/) with [Amideast/Iraq](https://www.linkedin.com/company/amideast-iraq/) This the final project of HeyTech Program specific CS50X Course
+We are at [Comutiq](https://www.linkedin.com/company/computiq/) with [Amideast/Iraq](https://www.linkedin.com/company/amideast-iraq/). HeyTech is a program dedicated to supporting women in technology by providing them with more tech lessons and resources at Hub200. This project aims to empower women by enhancing their technical skills and knowledge.
 
-## About the project 💡 
+## About The Project 💡 
 
 HeyTech is a comprehensive and user-friendly website designed to provide the latest news, reviews, and insights into the world of technology. The website aims to be a one-stop destination for tech enthusiasts, offering a variety of content including articles, tutorials, product reviews, and more. It is built with a focus on accessibility, responsiveness, and a seamless user experience 😅
+
+## Page Descriptions 🔍
+
+### Home Page 
+- **Description:** The landing page offers an overview of the program, upcoming events, and quick navigation to different sections.
+- **Features:** Highlights section, upcoming events, and quick navigation links.
+
+### About Page 
+- **Description:** This page details the mission, vision, and goals of HeyTech.
+- **Features:** Mission statement, vision, goals, and program overview.
+
+### Courses Page 
+- **Description:** A list of available tech courses designed specifically for women.
+- **Features:** Course listings, descriptions, and enrollment options.
+
+### Team Page 
+- **Description:** Information about the team behind HeyTech.
+- **Features:** Team member bios, photos, and roles.
+
+### Testimonial Page 
+- **Description:** Testimonials from women who have benefited from the program.
+- **Features:** User testimonials, ratings, and feedback.
+
+### Contact Page 
+- **Description:** A contact form for users to get in touch with the HeyTech team.
+- **Features:** Contact form, location map, and social media links.
 
 ## Technologies 🛠 
 - [HTML5](https://www.w3schools.com/html/) For the structuring of the website
@@ -23,8 +49,16 @@ HeyTech is a comprehensive and user-friendly website designed to provide the lat
 - ✅ Social Media Integration: Easy sharing options to popular social media platforms.
 - ✅ Interactive Elements: Engaging user experience with interactive tutorials and reviews
 
+## Getting Started
+
+To get a local copy up and running, follow these simple steps:
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/shahlaa1212/About-HeyTech.git
+
 ## Demo Video 📽️
-To see the app in action, check out the demo video here!
+To see the app in action, check out the demo video [here](https://www.youtube.com/watch?feature=shared&v=QBNLAYP5l6U)!
 
 ## Contributors ✨
 
