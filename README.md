@@ -32,8 +32,8 @@ This website serves as a platform to offer tech lessons and resources for women.
 - **Features:** Contact form, location map, and social media links.
  
 ### Login Page 
-- **Description:** A contact form for users to get in touch with the HeyTech team.
-- **Features:** Contact form, location map, and social media links.
+- **Description:** The login page of the HeyTech project provides a user interface for authenticated access to the website. It includes fields for entering a username and password.
+- **Features:** This page ensures that only registered users can access personalized or restricted content. The implementation is designed with security and user experience in mind.
   
 
 ## Technologies 🛠 
