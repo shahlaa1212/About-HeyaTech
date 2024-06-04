@@ -42,31 +42,33 @@ Thanks to these wonderful people who contributed to this project:
   <tr>
     <td align="center">
       <a href="https://github.com/shahlaa1212">
-        <img src="https://avatars.githubusercontent.com/u/123456?v=4" width="100px;" alt="Shahlaa"/>
-        <br />
-        <sub><b>Shahlaa Haider</b></sub>
-      </a>
-      <br />
-      <a href="https://github.com/shahlaa1212/About-HeyTech/commits?author=shahlaa1212" title="Code">💻</a>
-    </td><br>
-    <td align="center">
-      <a href="https://github.com/shahlaa1212">
-        <img src="https://avatars.githubusercontent.com/u/123456?v=4" width="100px;" alt="Shahlaa"/>
+        <img src="https://github.com/shahlaa1212/About-HeyTech/assets/74646502/418d047e-1d79-401f-9bbb-26439e3973e8" width="100px;" alt="Shahlaa"/>
         <br />
         <sub><b>Shahlaa Haider</b></sub>
       </a>
       <br />
       <a href="https://github.com/shahlaa1212/About-HeyTech/commits?author=shahlaa1212" title="Code">💻</a>
     </td>
-    <!-- Add more contributors here -->
+    <td align="center">
+      <a href="https://github.com/essra">
+        <img src="https://github.com/shahlaa1212/About-HeyTech/assets/74646502/a3888169-5e01-41cf-98f4-dcab0074e8e5" width="100px;" alt="Essra"/>
+        <br />
+        <sub><b>Essra</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/shahlaa1212/About-HeyTech/commits?author=essra" title="Code">💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/aya">
+        <img src="https://github.com/shahlaa1212/About-HeyTech/assets/74646502/156e334c-791c-4766-b649-64a3b57adac7" width="100px;" alt="Aya"/>
+        <br />
+        <sub><b>Aya Haider</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/shahlaa1212/About-HeyTech/commits?author=aya" title="Code">💻</a>
+    </td>
   </tr>
 </table>
-
-
-
-
-
- 
 
 
 
