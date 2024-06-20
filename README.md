@@ -61,7 +61,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/shahlaa1212/About-HeyTech.git
+   git clone https://github.com/shahlaa1212/About-HeyaTech.git
 
 ## Demo Video 📽️
 To see the app in action, check out the demo video [here](https://www.youtube.com/watch?feature=shared&v=QBNLAYP5l6U)!
