@@ -1,4 +1,4 @@
-# 👋🏻 HeyTech 🚀
+# 👋🏻 HeyaTech 🚀
 
 We are at [Comutiq](https://www.linkedin.com/company/computiq/) with [Amideast/Iraq](https://www.linkedin.com/company/amideast-iraq/). HeyTech is a program dedicated to supporting women in technology by providing them with more tech lessons and resources at Hub200. This project aims to empower women by enhancing their technical skills and knowledge.
 
