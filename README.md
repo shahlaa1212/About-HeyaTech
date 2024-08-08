@@ -89,7 +89,7 @@ Thanks to these wonderful people who contributed to this project:
         <sub><b>Essra talaa</b></sub>
       </a>
       <br />
-      <a href="https://github.com/shahlaa1212/About-HeyTech/commits?author=essra" title="Code">💻</a>
+      <a href="https://www.linkedin.com/in/esraa-talaa-797975234/" title="Code">💻</a>
     </td>
     <td align="center">
       <a href="https://github.com/AyaHiader">
@@ -98,7 +98,7 @@ Thanks to these wonderful people who contributed to this project:
         <sub><b>Aya Haider</b></sub>
       </a>
       <br />
-      <a href="https://github.com/shahlaa1212/About-HeyTech/commits?author=aya" title="Code">💻</a>
+      <a href="https://www.linkedin.com/in/ayaalniami/" title="Code">💻</a>
     </td>
   </tr>
 </table>
