@@ -1,6 +1,7 @@
-# 👋🏻 HeyTech 🚀
+# 👋🏻 HeyaTech Website 🚀
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-538DD7.svg?style=for-the-badge&logo=Font-Awesome&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
-We are at [Comutiq](https://www.linkedin.com/company/computiq/) with [Amideast/Iraq](https://www.linkedin.com/company/amideast-iraq/). HeyTech is a program dedicated to supporting women in technology by providing them with more tech lessons and resources at Hub200. This project aims to empower women by enhancing their technical skills and knowledge.
+We are at [Comutiq](https://www.linkedin.com/company/computiq/) with [Amideast/Iraq](https://www.linkedin.com/company/amideast-iraq/). HeyaTech is a program dedicated to supporting women in technology by providing them with more tech lessons and resources at Hub200. This project aims to empower women by enhancing their technical skills and knowledge.
 
 ## About The Project 💡 
 This website serves as a platform to offer tech lessons and resources for women. It features various sections to cater to different aspects of tech education and support.
@@ -61,7 +62,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/shahlaa1212/About-HeyTech.git
+   git clone https://github.com/shahlaa1212/About-HeyaTech.git
 
 ## Demo Video 📽️
 To see the app in action, check out the demo video [here](https://www.youtube.com/watch?feature=shared&v=QBNLAYP5l6U)!
@@ -88,7 +89,7 @@ Thanks to these wonderful people who contributed to this project:
         <sub><b>Essra talaa</b></sub>
       </a>
       <br />
-      <a href="https://github.com/shahlaa1212/About-HeyTech/commits?author=essra" title="Code">💻</a>
+      <a href="https://www.linkedin.com/in/esraa-talaa-797975234/" title="Code">💻</a>
     </td>
     <td align="center">
       <a href="https://github.com/AyaHiader">
@@ -97,7 +98,7 @@ Thanks to these wonderful people who contributed to this project:
         <sub><b>Aya Haider</b></sub>
       </a>
       <br />
-      <a href="https://github.com/shahlaa1212/About-HeyTech/commits?author=aya" title="Code">💻</a>
+      <a href="https://www.linkedin.com/in/ayaalniami/" title="Code">💻</a>
     </td>
   </tr>
 </table>
