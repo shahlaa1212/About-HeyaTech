@@ -1,4 +1,5 @@
-# 👋🏻 HeyaTech 🚀
+# 👋🏻 HeyaTech Website 🚀
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 We are at [Comutiq](https://www.linkedin.com/company/computiq/) with [Amideast/Iraq](https://www.linkedin.com/company/amideast-iraq/). HeyTech is a program dedicated to supporting women in technology by providing them with more tech lessons and resources at Hub200. This project aims to empower women by enhancing their technical skills and knowledge.
 
