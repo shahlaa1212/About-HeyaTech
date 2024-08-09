@@ -67,7 +67,7 @@ To get a local copy up and running, follow these simple steps:
 ## Demo Video 📽️
 To see the app in action, check out the demo video [here](https://www.youtube.com/watch?feature=shared&v=QBNLAYP5l6U)!
 
-## Contributors ✨
+## Teams 👥 
 
 Thanks to these wonderful people who contributed to this project:
 
