@@ -40,12 +40,12 @@ This website serves as a platform to offer tech lessons and resources for women.
   
 
 ## Technologies 🛠 
-- [HTML5](https://www.w3schools.com/html/) For the structuring of the website
-- [CSS3](https://www.w3schools.com/css/) For the tyling of the website.
-- [JavaScript](https://www.w3schools.com/js/) To add interactivity and dynamic elements in website.
-- [Bootstrap](https://getbootstrap.com/) For responsive design and quick UI development.
-- [Git & GitHub](https://www.git-scm.com/) Version control and collaboration.
-- [Font Awesome](https://fontawesome.com/) The iconic SVG, font, and CSS toolkit - Simple. Fast. Reliable
+- [HTML5](https://www.w3schools.com/html/): For the structuring of the website
+- [CSS3](https://www.w3schools.com/css/): For the tyling of the website.
+- [JavaScript](https://www.w3schools.com/js/): To add interactivity and dynamic elements in website.
+- [Bootstrap](https://getbootstrap.com/): For responsive design and quick UI development.
+- [Git & GitHub](https://www.git-scm.com/): Version control and collaboration.
+- [Font Awesome](https://fontawesome.com/): The iconic SVG, font, and CSS toolkit - Simple. Fast. Reliable
 
 ## Features 📌 
 - ✅ Authentication (sign in and sign up)
