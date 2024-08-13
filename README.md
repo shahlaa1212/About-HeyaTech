@@ -103,8 +103,8 @@ Thanks to these wonderful people who contributed to this project:
   </tr>
 </table>
 
-## 📋 Credits
-This app was created as a part of my journey with The [The Computiq](https://github.com/computiq-training).
+## Credits 📋
+This app was created as a part of my journey with The [The Computiq](https://github.com/computiq-training) ❤️.
 
 ## 🙏 Contributing 🫱🏼‍🫲🏻
 Contributions are welcome! If you'd like to contribute to the project.
