@@ -1,7 +1,7 @@
 # 👋🏻 HeyaTech Website 🚀
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-538DD7.svg?style=for-the-badge&logo=Font-Awesome&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
-We are at [Comutiq](https://www.linkedin.com/company/computiq/) with [Amideast/Iraq](https://www.linkedin.com/company/amideast-iraq/). HeyaTech is a program dedicated to supporting women in technology by providing them with more tech lessons and resources at Hub200. This project aims to empower women by enhancing their technical skills and knowledge.
+We are at [Comutiq](https://www.linkedin.com/company/computiq/) with [Amideast/Iraq](https://www.linkedin.com/company/amideast-iraq/). HeyaTech specifc cs50x is a program dedicated to supporting women in technology by providing them with more tech lessons and resources at Hub200. This project aims to empower women by enhancing their technical skills and knowledge.
 
 ## About The Project 💡 
 This website serves as a platform to offer tech lessons and resources for women. It features various sections to cater to different aspects of tech education and support.
@@ -40,12 +40,12 @@ This website serves as a platform to offer tech lessons and resources for women.
   
 
 ## Technologies 🛠 
-- [HTML5](https://www.w3schools.com/html/) For the structuring of the website
-- [CSS3](https://www.w3schools.com/css/) For the tyling of the website.
-- [JavaScript](https://www.w3schools.com/js/) To add interactivity and dynamic elements in website.
-- [Bootstrap](https://getbootstrap.com/) For responsive design and quick UI development.
-- [Git & GitHub](https://www.git-scm.com/) Version control and collaboration.
-- [Font Awesome](https://fontawesome.com/) The iconic SVG, font, and CSS toolkit - Simple. Fast. Reliable
+- [HTML5](https://www.w3schools.com/html/): For the structuring of the website
+- [CSS3](https://www.w3schools.com/css/): For the tyling of the website.
+- [JavaScript](https://www.w3schools.com/js/): To add interactivity and dynamic elements in website.
+- [Bootstrap](https://getbootstrap.com/): For responsive design and quick UI development.
+- [Git & GitHub](https://www.git-scm.com/): Version control and collaboration.
+- [Font Awesome](https://fontawesome.com/): The iconic SVG, font, and CSS toolkit - Simple. Fast. Reliable
 
 ## Features 📌 
 - ✅ Authentication (sign in and sign up)
@@ -67,7 +67,7 @@ To get a local copy up and running, follow these simple steps:
 ## Demo Video 📽️
 To see the app in action, check out the demo video [here](https://www.youtube.com/watch?feature=shared&v=QBNLAYP5l6U)!
 
-## Contributors ✨
+## Teams 👥 
 
 Thanks to these wonderful people who contributed to this project:
 
@@ -102,6 +102,9 @@ Thanks to these wonderful people who contributed to this project:
     </td>
   </tr>
 </table>
+
+## Credits 📋
+This app was created as a part of my journey with The [The Computiq](https://github.com/computiq-training) ❤️.
 
 ## 🙏 Contributing 🫱🏼‍🫲🏻
 Contributions are welcome! If you'd like to contribute to the project.
